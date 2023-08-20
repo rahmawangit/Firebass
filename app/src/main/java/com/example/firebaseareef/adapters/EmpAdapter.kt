@@ -9,7 +9,7 @@ import com.example.firebaseareef.R
 import com.example.firebaseareef.models.EmployeeModel
 
 class EmpAdapter(private val empList:ArrayList<EmployeeModel>) : RecyclerView.Adapter<EmpAdapter.ViewHolder>(){
-
+    var x =1
     private lateinit var mListener : onItemClickListener
 
     interface onItemClickListener{
