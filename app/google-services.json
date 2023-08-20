@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661952614990",
+    "project_id": "testapi-3abef",
+    "storage_bucket": "testapi-3abef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661952614990:android:739878dce3fbba4f85e91f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseareef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661952614990-rgi8htfdfuj12tf15l3bpeomdq84lrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3CQ3IiCLggD2X57abalrpubmjjSQYwEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661952614990-rgi8htfdfuj12tf15l3bpeomdq84lrqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
